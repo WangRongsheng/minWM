@@ -2,6 +2,12 @@
 
 >  ***A full-stack framework and tutorial for newcomers, rather than a specific model.***
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2605.30263"><img src="https://img.shields.io/badge/Technical_Report-arXiv-b31b1b?logo=arxiv&logoColor=white" alt="Technical Report"></a>
+  <a href="https://huggingface.co/MIN-Lab/minWM"><img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="assets/wechat.jpg"><img src="https://img.shields.io/badge/WeChat-Group-07C160?logo=wechat&logoColor=white" alt="WeChat"></a>
+</p>
+
 **minWM** is our contribution to the world-model community: a **full-stack open-source framework** that walks you end-to-end through turning a bidirectional T2V foundation model into an action-conditioned video world model — with example data, runnable scripts, **Claude skills** capturing our hands-on experience, and **onboarding knowledge** for newcomers. We hope more researchers and developers join us in growing the community together.
 
 ## 🎬 Demo
