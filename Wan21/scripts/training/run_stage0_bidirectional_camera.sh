@@ -26,4 +26,4 @@ torchrun \
   Wan21/wan_train.py \
   --config_path Wan21/configs/bidirectional_camera.yaml \
   --logdir logs/bidirectional_camera \
-  --sp_size 4
+  --sp_size 1
